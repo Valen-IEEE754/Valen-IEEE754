@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valen
 - 🌱 I’m interested in cybersecurity
-- ✨ I’m currently learning assembly
+- ✨ I’m currently learning Database
 - 📫 How to reach me, valentinfuentes161@gmail.com
 - Quote: "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man."  - George Bernard Shaw
 <!---
